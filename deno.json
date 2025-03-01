@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "build": "deno compile --allow-run i3-shift.ts"
+  }
+}
